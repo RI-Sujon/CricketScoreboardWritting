@@ -1,0 +1,368 @@
+{
+    "team": [
+      {
+        "teamName": "Bangladesh",
+        "player": [
+          {
+            "name": "Tamim",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "notOut",
+              "battingPosition": 1
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Liton",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "notOut",
+              "battingPosition": 2
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Sakib",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 3
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Mushfiq",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 4
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Soumya",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 5
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Mahmudullah",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 6
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Afif",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 7
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Saifuddin",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 8
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Aminul",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 9
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Mustafiz",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 10
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Hasan",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 11
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          }
+        ]
+      },
+      {
+        "teamName": "Tigers",
+        "player": [
+          {
+            "name": "Tamim",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "notOut",
+              "battingPosition": 1
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Liton",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "notOut",
+              "battingPosition": 2
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Sakib",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 3
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Mushfiq",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 4
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Soumya",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 5
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Mahmudullah",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 6
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Afif",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 7
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Saifuddin",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 8
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Aminul",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 9
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Mustafiz",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 10
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          },
+          {
+            "name": "Hasan",
+            "batting": {
+              "run": 0,
+              "ball": 0,
+              "dismissalType": "",
+              "battingPosition": 11
+            },
+            "bowling": {
+              "runConceded": 0,
+              "over": 0,
+              "ballInAOver": 0,
+              "wicket": 0
+            }
+          }
+        ]
+      }
+    ],
+    "innings": [
+      {
+        "onBatting": "Bangladesh",
+        "totalRun": 0,
+        "wicket": 0,
+        "overs": 0,
+        "ballInAOver": 0,
+        "batsmanOnStrike ": "",
+        "batsmanOnNonStrike ": "",
+        "bowler": "" ,
+        "extras": 0 
+      },
+      {
+        "onBatting": "Tigers",
+        "totalRun": 0,
+        "wicket": 0,
+        "overs": 0,
+        "ballInAOver": 0,
+        "batsmanOnStrike ": "",
+        "batsmanOnNonStrike": "",
+        "bowler": "" ,
+        "extras": 0
+      }
+    ]
+  }
